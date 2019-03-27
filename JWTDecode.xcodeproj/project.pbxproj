@@ -13,33 +13,15 @@
 		5B75B0D421B7DC4A0065A681 /* ValidatorJWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D321B7DC4A0065A681 /* ValidatorJWT.swift */; };
 		5B75B0D521B7DC4A0065A681 /* ValidatorJWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D321B7DC4A0065A681 /* ValidatorJWT.swift */; };
 		5B75B0D621B7DC4A0065A681 /* ValidatorJWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D321B7DC4A0065A681 /* ValidatorJWT.swift */; };
-		5B75B0DB21B7DCDF0065A681 /* TokenValidatorsSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D721B7DCB70065A681 /* TokenValidatorsSpec.swift */; };
-		5B75B0DC21B7DCE00065A681 /* TokenValidatorsSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D721B7DCB70065A681 /* TokenValidatorsSpec.swift */; };
-		5B75B0DD21B7DCE10065A681 /* TokenValidatorsSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B75B0D721B7DCB70065A681 /* TokenValidatorsSpec.swift */; };
 		5BB6950021BEB53B00280BA2 /* ValidationError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB694FF21BEB53B00280BA2 /* ValidationError.swift */; };
 		5BB6950121BEB53B00280BA2 /* ValidationError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB694FF21BEB53B00280BA2 /* ValidationError.swift */; };
 		5BB6950221BEB53B00280BA2 /* ValidationError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB694FF21BEB53B00280BA2 /* ValidationError.swift */; };
 		5F0068E81B3B46240048928E /* JWTDecode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0068E71B3B46240048928E /* JWTDecode.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F0068EE1B3B46240048928E /* JWTDecode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0068E21B3B46240048928E /* JWTDecode.framework */; };
 		5F0069031B3B511F0048928E /* JWTDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069021B3B511F0048928E /* JWTDecode.swift */; };
-		5F0069141B3B532E0048928E /* JWTDecode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F0069091B3B532E0048928E /* JWTDecode.framework */; };
-		5F0069231B3C4A7F0048928E /* JWTDecodeSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069221B3C4A7F0048928E /* JWTDecodeSpec.swift */; };
-		5F0069241B3C4A860048928E /* JWTDecodeSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069221B3C4A7F0048928E /* JWTDecodeSpec.swift */; };
 		5F00693D1B3C7B630048928E /* JWTDecode.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0068E71B3B46240048928E /* JWTDecode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F00693E1B3C7B930048928E /* JWTDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069021B3B511F0048928E /* JWTDecode.swift */; };
-		5F0069411B3C828F0048928E /* A0JWTDecodeSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069401B3C828F0048928E /* A0JWTDecodeSpec.m */; };
-		5F2614D81C05FE850068DE71 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F2614CD1C05FDDE0068DE71 /* Quick.framework */; };
-		5F2614D91C05FE850068DE71 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F2614CE1C05FDDE0068DE71 /* Nimble.framework */; };
-		5F2614DA1C05FE880068DE71 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F2614D41C05FE720068DE71 /* Quick.framework */; };
-		5F2614DB1C05FE880068DE71 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F2614D51C05FE720068DE71 /* Nimble.framework */; };
-		5F2614DD1C05FEB90068DE71 /* Quick.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F2614CD1C05FDDE0068DE71 /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		5F2614DE1C05FEB90068DE71 /* Nimble.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F2614CE1C05FDDE0068DE71 /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		5F2614E01C05FEE20068DE71 /* Quick.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F2614D41C05FE720068DE71 /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		5F2614E11C05FEE20068DE71 /* Nimble.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F2614D51C05FE720068DE71 /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		5F8B43691B9F99B400A0D5AE /* A0JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B43681B9F99B400A0D5AE /* A0JWT.swift */; };
 		5F8B436A1B9F99B400A0D5AE /* A0JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B43681B9F99B400A0D5AE /* A0JWT.swift */; };
-		5F8B436C1B9F9EDB00A0D5AE /* JWTHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B436B1B9F9EDB00A0D5AE /* JWTHelper.swift */; };
-		5F8B436D1B9F9EDB00A0D5AE /* JWTHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B436B1B9F9EDB00A0D5AE /* JWTHelper.swift */; };
 		5FE49DCD1BA0D5F700DE57D3 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCC1BA0D5F700DE57D3 /* JWT.swift */; };
 		5FE49DCE1BA0D5F700DE57D3 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCC1BA0D5F700DE57D3 /* JWT.swift */; };
 		5FE49DD01BA0D66F00DE57D3 /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCF1BA0D66F00DE57D3 /* Errors.swift */; };
@@ -49,91 +31,19 @@
 		918A8E651D63D2F7001F787B /* JWTDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069021B3B511F0048928E /* JWTDecode.swift */; };
 		918A8E661D63D2FB001F787B /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCC1BA0D5F700DE57D3 /* JWT.swift */; };
 		918A8E671D63D2FE001F787B /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE49DCF1BA0D66F00DE57D3 /* Errors.swift */; };
-		918A8E711D63D4E5001F787B /* JWTDecode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 918A8E5B1D63D2E1001F787B /* JWTDecode.framework */; };
-		918A8E771D63D59B001F787B /* JWTDecodeSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0069221B3C4A7F0048928E /* JWTDecodeSpec.swift */; };
-		918A8E781D63D5AF001F787B /* JWTHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8B436B1B9F9EDB00A0D5AE /* JWTHelper.swift */; };
-		918A8E7D1D63D86E001F787B /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 918A8E7A1D63D86E001F787B /* Nimble.framework */; };
-		918A8E7F1D63D86E001F787B /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 918A8E7B1D63D86E001F787B /* Quick.framework */; };
-		918A8E821D63DB42001F787B /* Quick.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7B1D63D86E001F787B /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		918A8E831D63DB4D001F787B /* Nimble.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 918A8E7A1D63D86E001F787B /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		5F0068EF1B3B46240048928E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5F0068D91B3B46240048928E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 5F0068E11B3B46240048928E;
-			remoteInfo = JWTDecode;
-		};
-		5F0069151B3B532E0048928E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5F0068D91B3B46240048928E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 5F0069081B3B532E0048928E;
-			remoteInfo = "JWTDecode-OSX";
-		};
-		918A8E721D63D4E5001F787B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5F0068D91B3B46240048928E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 918A8E5A1D63D2E1001F787B;
-			remoteInfo = "JWTDecode-tvOS";
-		};
-/* End PBXContainerItemProxy section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		5F2614DC1C05FEAD0068DE71 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				5F2614DD1C05FEB90068DE71 /* Quick.framework in CopyFiles */,
-				5F2614DE1C05FEB90068DE71 /* Nimble.framework in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5F2614DF1C05FEDA0068DE71 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				5F2614E01C05FEE20068DE71 /* Quick.framework in CopyFiles */,
-				5F2614E11C05FEE20068DE71 /* Nimble.framework in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		918A8E801D63DB37001F787B /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				918A8E821D63DB42001F787B /* Quick.framework in CopyFiles */,
-				918A8E831D63DB4D001F787B /* Nimble.framework in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		5B75B0CF21B6B1250065A681 /* TokenValidators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenValidators.swift; sourceTree = "<group>"; };
 		5B75B0D321B7DC4A0065A681 /* ValidatorJWT.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ValidatorJWT.swift; sourceTree = "<group>"; };
-		5B75B0D721B7DCB70065A681 /* TokenValidatorsSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TokenValidatorsSpec.swift; sourceTree = "<group>"; };
 		5BB694FF21BEB53B00280BA2 /* ValidationError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationError.swift; sourceTree = "<group>"; };
 		5F0068E21B3B46240048928E /* JWTDecode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JWTDecode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F0068E61B3B46240048928E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F0068E71B3B46240048928E /* JWTDecode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JWTDecode.h; sourceTree = "<group>"; };
-		5F0068ED1B3B46240048928E /* JWTDecode-iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JWTDecode-iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F0068F31B3B46240048928E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F0069021B3B511F0048928E /* JWTDecode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWTDecode.swift; sourceTree = "<group>"; };
 		5F0069091B3B532E0048928E /* JWTDecode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JWTDecode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F0069131B3B532E0048928E /* JWTDecode-OSXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JWTDecode-OSXTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F0069221B3C4A7F0048928E /* JWTDecodeSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWTDecodeSpec.swift; sourceTree = "<group>"; };
 		5F00693F1B3C828E0048928E /* JWTDecode-iOSTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JWTDecode-iOSTests-Bridging-Header.h"; sourceTree = "<group>"; };
-		5F0069401B3C828F0048928E /* A0JWTDecodeSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = A0JWTDecodeSpec.m; sourceTree = "<group>"; };
 		5F0A5E291B9A6D4A005289CF /* JWTDecode.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JWTDecode.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5F2496A31D64A91300A1C6E2 /* Cartfile.resolved */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile.resolved; sourceTree = "<group>"; };
 		5F2496A41D64A91300A1C6E2 /* JWTDecode.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = JWTDecode.podspec; sourceTree = "<group>"; };
@@ -154,7 +64,6 @@
 		5FE49DCC1BA0D5F700DE57D3 /* JWT.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWT.swift; sourceTree = "<group>"; };
 		5FE49DCF1BA0D66F00DE57D3 /* Errors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Errors.swift; sourceTree = "<group>"; };
 		918A8E5B1D63D2E1001F787B /* JWTDecode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JWTDecode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		918A8E6C1D63D4E5001F787B /* JWTDecode-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JWTDecode-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		918A8E7A1D63D86E001F787B /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = Carthage/Build/tvOS/Nimble.framework; sourceTree = SOURCE_ROOT; };
 		918A8E7B1D63D86E001F787B /* Quick.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quick.framework; path = Carthage/Build/tvOS/Quick.framework; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -167,16 +76,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F0068EA1B3B46240048928E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5F2614D91C05FE850068DE71 /* Nimble.framework in Frameworks */,
-				5F2614D81C05FE850068DE71 /* Quick.framework in Frameworks */,
-				5F0068EE1B3B46240048928E /* JWTDecode.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5F0069051B3B532E0048928E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -184,30 +83,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F0069101B3B532E0048928E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5F2614DB1C05FE880068DE71 /* Nimble.framework in Frameworks */,
-				5F2614DA1C05FE880068DE71 /* Quick.framework in Frameworks */,
-				5F0069141B3B532E0048928E /* JWTDecode.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		918A8E571D63D2E1001F787B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		918A8E691D63D4E5001F787B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				918A8E7D1D63D86E001F787B /* Nimble.framework in Frameworks */,
-				918A8E7F1D63D86E001F787B /* Quick.framework in Frameworks */,
-				918A8E711D63D4E5001F787B /* JWTDecode.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,11 +108,8 @@
 			isa = PBXGroup;
 			children = (
 				5F0068E21B3B46240048928E /* JWTDecode.framework */,
-				5F0068ED1B3B46240048928E /* JWTDecode-iOSTests.xctest */,
 				5F0069091B3B532E0048928E /* JWTDecode.framework */,
-				5F0069131B3B532E0048928E /* JWTDecode-OSXTests.xctest */,
 				918A8E5B1D63D2E1001F787B /* JWTDecode.framework */,
-				918A8E6C1D63D4E5001F787B /* JWTDecode-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -266,9 +142,6 @@
 			isa = PBXGroup;
 			children = (
 				5F0068F21B3B46240048928E /* Supporting Files */,
-				5B75B0D721B7DCB70065A681 /* TokenValidatorsSpec.swift */,
-				5F0069221B3C4A7F0048928E /* JWTDecodeSpec.swift */,
-				5F0069401B3C828F0048928E /* A0JWTDecodeSpec.m */,
 				5F00693F1B3C828E0048928E /* JWTDecode-iOSTests-Bridging-Header.h */,
 				5F8B436B1B9F9EDB00A0D5AE /* JWTHelper.swift */,
 			);
@@ -387,25 +260,6 @@
 			productReference = 5F0068E21B3B46240048928E /* JWTDecode.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		5F0068EC1B3B46240048928E /* JWTDecode-iOSTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5F0068FB1B3B46240048928E /* Build configuration list for PBXNativeTarget "JWTDecode-iOSTests" */;
-			buildPhases = (
-				5F0068E91B3B46240048928E /* Sources */,
-				5F0068EA1B3B46240048928E /* Frameworks */,
-				5F0068EB1B3B46240048928E /* Resources */,
-				5F2614DC1C05FEAD0068DE71 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5F0068F01B3B46240048928E /* PBXTargetDependency */,
-			);
-			name = "JWTDecode-iOSTests";
-			productName = JWTDecodeTests;
-			productReference = 5F0068ED1B3B46240048928E /* JWTDecode-iOSTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		5F0069081B3B532E0048928E /* JWTDecode-OSX */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F00691C1B3B532E0048928E /* Build configuration list for PBXNativeTarget "JWTDecode-OSX" */;
@@ -424,25 +278,6 @@
 			productName = "JWTDecode-OSX";
 			productReference = 5F0069091B3B532E0048928E /* JWTDecode.framework */;
 			productType = "com.apple.product-type.framework";
-		};
-		5F0069121B3B532E0048928E /* JWTDecode-OSXTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5F00691F1B3B532E0048928E /* Build configuration list for PBXNativeTarget "JWTDecode-OSXTests" */;
-			buildPhases = (
-				5F00690F1B3B532E0048928E /* Sources */,
-				5F0069101B3B532E0048928E /* Frameworks */,
-				5F0069111B3B532E0048928E /* Resources */,
-				5F2614DF1C05FEDA0068DE71 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5F0069161B3B532E0048928E /* PBXTargetDependency */,
-			);
-			name = "JWTDecode-OSXTests";
-			productName = "JWTDecode-OSXTests";
-			productReference = 5F0069131B3B532E0048928E /* JWTDecode-OSXTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		918A8E5A1D63D2E1001F787B /* JWTDecode-tvOS */ = {
 			isa = PBXNativeTarget;
@@ -463,25 +298,6 @@
 			productReference = 918A8E5B1D63D2E1001F787B /* JWTDecode.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		918A8E6B1D63D4E5001F787B /* JWTDecode-tvOSTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 918A8E741D63D4E5001F787B /* Build configuration list for PBXNativeTarget "JWTDecode-tvOSTests" */;
-			buildPhases = (
-				918A8E681D63D4E5001F787B /* Sources */,
-				918A8E691D63D4E5001F787B /* Frameworks */,
-				918A8E6A1D63D4E5001F787B /* Resources */,
-				918A8E801D63DB37001F787B /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				918A8E731D63D4E5001F787B /* PBXTargetDependency */,
-			);
-			name = "JWTDecode-tvOSTests";
-			productName = "JWTDecode-tvOSTests";
-			productReference = 918A8E6C1D63D4E5001F787B /* JWTDecode-tvOSTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -489,23 +305,14 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = Auth0;
 				TargetAttributes = {
 					5F0068E11B3B46240048928E = {
 						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 0900;
-					};
-					5F0068EC1B3B46240048928E = {
-						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 0900;
-						ProvisioningStyle = Manual;
+						LastSwiftMigration = 1020;
 					};
 					5F0069081B3B532E0048928E = {
-						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 0900;
-					};
-					5F0069121B3B532E0048928E = {
 						CreatedOnToolsVersion = 6.3.2;
 						LastSwiftMigration = 0900;
 					};
@@ -513,19 +320,15 @@
 						CreatedOnToolsVersion = 7.3.1;
 						LastSwiftMigration = 0900;
 					};
-					918A8E6B1D63D4E5001F787B = {
-						CreatedOnToolsVersion = 7.3.1;
-						LastSwiftMigration = 0900;
-						ProvisioningStyle = Manual;
-					};
 				};
 			};
 			buildConfigurationList = 5F0068DC1B3B46240048928E /* Build configuration list for PBXProject "JWTDecode" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 5F0068D81B3B46240048928E;
 			productRefGroup = 5F0068E31B3B46240048928E /* Products */;
@@ -533,24 +336,14 @@
 			projectRoot = "";
 			targets = (
 				5F0068E11B3B46240048928E /* JWTDecode-iOS */,
-				5F0068EC1B3B46240048928E /* JWTDecode-iOSTests */,
 				5F0069081B3B532E0048928E /* JWTDecode-OSX */,
-				5F0069121B3B532E0048928E /* JWTDecode-OSXTests */,
 				918A8E5A1D63D2E1001F787B /* JWTDecode-tvOS */,
-				918A8E6B1D63D4E5001F787B /* JWTDecode-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		5F0068E01B3B46240048928E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5F0068EB1B3B46240048928E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -564,21 +357,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F0069111B3B532E0048928E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		918A8E591D63D2E1001F787B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		918A8E6A1D63D4E5001F787B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -647,17 +426,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F0068E91B3B46240048928E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5F8B436C1B9F9EDB00A0D5AE /* JWTHelper.swift in Sources */,
-				5B75B0DD21B7DCE10065A681 /* TokenValidatorsSpec.swift in Sources */,
-				5F0069231B3C4A7F0048928E /* JWTDecodeSpec.swift in Sources */,
-				5F0069411B3C828F0048928E /* A0JWTDecodeSpec.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5F0069041B3B532E0048928E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -669,16 +437,6 @@
 				5F8B436A1B9F99B400A0D5AE /* A0JWT.swift in Sources */,
 				5F00693E1B3C7B930048928E /* JWTDecode.swift in Sources */,
 				5FE49DCE1BA0D5F700DE57D3 /* JWT.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5F00690F1B3B532E0048928E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5F0069241B3C4A860048928E /* JWTDecodeSpec.swift in Sources */,
-				5B75B0DC21B7DCE00065A681 /* TokenValidatorsSpec.swift in Sources */,
-				5F8B436D1B9F9EDB00A0D5AE /* JWTHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -696,41 +454,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		918A8E681D63D4E5001F787B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				918A8E771D63D59B001F787B /* JWTDecodeSpec.swift in Sources */,
-				5B75B0DB21B7DCDF0065A681 /* TokenValidatorsSpec.swift in Sources */,
-				918A8E781D63D5AF001F787B /* JWTHelper.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		5F0068F01B3B46240048928E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 5F0068E11B3B46240048928E /* JWTDecode-iOS */;
-			targetProxy = 5F0068EF1B3B46240048928E /* PBXContainerItemProxy */;
-		};
-		5F0069161B3B532E0048928E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 5F0069081B3B532E0048928E /* JWTDecode-OSX */;
-			targetProxy = 5F0069151B3B532E0048928E /* PBXContainerItemProxy */;
-		};
-		918A8E731D63D4E5001F787B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 918A8E5A1D63D2E1001F787B /* JWTDecode-tvOS */;
-			targetProxy = 918A8E721D63D4E5001F787B /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		5F0068F61B3B46240048928E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -791,6 +522,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -860,8 +592,7 @@
 				PRODUCT_NAME = JWTDecode;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -885,56 +616,7 @@
 				PRODUCT_NAME = JWTDecode;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-			};
-			name = Release;
-		};
-		5F0068FC1B3B46240048928E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = NO;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = JWTDecodeTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "JWTDecodeTests/JWTDecode-iOSTests-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-			};
-			name = Debug;
-		};
-		5F0068FD1B3B46240048928E /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = NO;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				INFOPLIST_FILE = JWTDecodeTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "JWTDecodeTests/JWTDecode-iOSTests-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -992,53 +674,6 @@
 			};
 			name = Release;
 		};
-		5F0069201B3B532E0048928E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = NO;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = JWTDecodeTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-			};
-			name = Debug;
-		};
-		5F0069211B3B532E0048928E /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = NO;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				INFOPLIST_FILE = JWTDecodeTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-			};
-			name = Release;
-		};
 		918A8E601D63D2E1001F787B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1090,50 +725,6 @@
 			};
 			name = Release;
 		};
-		918A8E751D63D4E5001F787B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INFOPLIST_FILE = JWTDecode/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.JWTDecode-tvOSTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
-			};
-			name = Debug;
-		};
-		918A8E761D63D4E5001F787B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ENABLE_CODE_COVERAGE = YES;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INFOPLIST_FILE = JWTDecode/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.auth0.JWTDecode-tvOSTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1155,15 +746,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F0068FB1B3B46240048928E /* Build configuration list for PBXNativeTarget "JWTDecode-iOSTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5F0068FC1B3B46240048928E /* Debug */,
-				5F0068FD1B3B46240048928E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		5F00691C1B3B532E0048928E /* Build configuration list for PBXNativeTarget "JWTDecode-OSX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1173,29 +755,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F00691F1B3B532E0048928E /* Build configuration list for PBXNativeTarget "JWTDecode-OSXTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5F0069201B3B532E0048928E /* Debug */,
-				5F0069211B3B532E0048928E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		918A8E621D63D2E1001F787B /* Build configuration list for PBXNativeTarget "JWTDecode-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				918A8E601D63D2E1001F787B /* Debug */,
 				918A8E611D63D2E1001F787B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		918A8E741D63D4E5001F787B /* Build configuration list for PBXNativeTarget "JWTDecode-tvOSTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				918A8E751D63D4E5001F787B /* Debug */,
-				918A8E761D63D4E5001F787B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
